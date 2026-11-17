@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="id">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Katalog SKINTIFIC + Asisten RAG</title>
+  <meta name="description" content="Katalog produk lapak SKINTIFIC di Shopee dengan asisten chatbot berbasis RAG. Proyek tugas praktikum AI.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Schibsted+Grotesk:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="wrap topbar__inner">
+      <a class="wordmark" href="#" aria-label="Kembali ke atas">
+        <span class="wordmark__brand" id="brand">SKINTIFIC</span>
+        <span class="wordmark__shop" id="shopName">Official Shop</span>
+      </a>
+      <nav class="topbar__actions">
+        <a class="btn btn--ghost" id="btnWaHeader" href="#" target="_blank" rel="noopener">Chat WhatsApp</a>
+        <a class="btn btn--solid" id="btnShopee" href="#" target="_blank" rel="noopener">Buka lapak Shopee</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero wrap">
+      <div class="hero__copy">
+        <h1 class="hero__title">Semua produk lapak <span id="heroBrand">SKINTIFIC</span> di Shopee, dalam satu katalog yang bisa ditanya.</h1>
+        <p class="hero__lead" id="heroLead">Memuat data katalog…</p>
+        <button class="btn btn--solid btn--lg" type="button" data-open-chat>Tanya asisten</button>
+      </div>
+
+      <div class="actives" id="activesBox" hidden>
+        <p class="actives__title">Cari berdasarkan kandungan</p>
+        <div class="actives__grid" id="activesGrid"></div>
+      </div>
+    </section>
+
+    <section class="catalog wrap" aria-labelledby="catalogTitle">
+      <div class="catalog__head">
+        <h2 id="catalogTitle" class="catalog__title">Katalog produk</h2>
+        <p class="catalog__count" id="resultCount" aria-live="polite"></p>
+      </div>
+
+      <div class="toolbar">
+        <label class="search">
+          <span class="sr-only">Cari produk</span>
+          <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+          <input id="searchInput" type="search" placeholder="Cari nama produk, misalnya ceramide atau sunscreen" autocomplete="off">
+        </label>
+        <label class="sort">
+          <span class="sr-only">Urutkan</span>
+          <select id="sortSelect">
+            <option value="terlaris">Terlaris</option>
+            <option value="termurah">Harga termurah</option>
+            <option value="termahal">Harga termahal</option>
+            <option value="rating">Rating tertinggi</option>
+            <option value="diskon">Diskon terbesar</option>
+          </select>
+        </label>
+      </div>
+
+      <div class="chips" id="categoryChips" role="group" aria-label="Filter kategori"></div>
+      <div class="active-filter" id="activeFilter" hidden></div>
+
+      <div class="grid" id="productGrid"></div>
+      <p class="empty" id="emptyState" hidden>Tidak ada produk yang cocok. Hapus filter atau coba kata lain.</p>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="wrap footer__inner">
+      <p id="footerSource">Data produk diambil dari lapak Shopee dengan Instant Data Scraper.</p>
+      <p>Harga dan stok bisa berubah sewaktu-waktu, cek halaman Shopee sebelum membeli. Proyek tugas praktikum mata kuliah Kecerdasan Artifisial dan Penerapannya, bukan situs resmi SKINTIFIC.</p>
+    </div>
+  </footer>
+
+  <!-- Chatbot -->
+  <button class="chat-fab" type="button" id="chatFab" data-open-chat aria-controls="chatPanel" aria-expanded="false">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16v11H8l-4 4z"/></svg>
+    <span>Tanya asisten</span>
+  </button>
+
+  <section class="chat" id="chatPanel" aria-label="Asisten katalog" hidden>
+    <header class="chat__head">
+      <div>
+        <p class="chat__title">Asisten <span id="chatBrand">SKINTIFIC</span></p>
+        <p class="chat__sub">Jawaban diambil dari data produk lapak ini</p>
+      </div>
+      <button class="chat__close" type="button" id="chatClose" aria-label="Tutup asisten">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6 6 18"/></svg>
+      </button>
+    </header>
+    <div class="chat__log" id="chatLog" aria-live="polite"></div>
+    <div class="chat__suggest" id="chatSuggest">
+      <button type="button">Sunscreen untuk kulit berminyak</button>
+      <button type="button">Serum buat jerawat</button>
+      <button type="button">Moisturizer di bawah 100rb</button>
+      <button type="button">Produk paling laris</button>
+    </div>
+    <form class="chat__form" id="chatForm">
+      <label class="sr-only" for="chatInput">Tulis pertanyaan</label>
+      <input id="chatInput" type="text" placeholder="Tulis pertanyaan…" autocomplete="off" maxlength="500">
+      <button class="btn btn--solid" type="submit" id="chatSend">Kirim</button>
+    </form>
+  </section>
+
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,567 @@
+{
+  "meta": {
+    "sumber": "Instant Data Scraper (data/products.csv)",
+    "dibuat": "2026-11-17T15:05:24.485Z",
+    "jumlah_produk": 30,
+    "jumlah_kategori": 3
+  },
+  "kategori": [
+    {
+      "nama": "Paket Hemat",
+      "jumlah": 28
+    },
+    {
+      "nama": "Masker",
+      "jumlah": 1
+    },
+    {
+      "nama": "Pembersih",
+      "jumlah": 1
+    }
+  ],
+  "produk": [
+    {
+      "id": "380266264.55511468971",
+      "nama": "[NEW LAUNCH] SKINTIFIC - 3PCS PDRN Glowing Set | PDRN Brightening Serum Spray + Jelly Pads / Serum + Moisturizer | Niacinamide Toner Damask Rose Cleanser Moisture Gel Smooth Skincare",
+      "kategori": "Paket Hemat",
+      "harga": 372000,
+      "harga_asli": null,
+      "diskon": 38,
+      "rating": 4.9,
+      "terjual": 1000,
+      "terjual_teks": "1RB+",
+      "link": "https://shopee.co.id/-NEW-LAUNCH-SKINTIFIC-3PCS-PDRN-Glowing-Set-PDRN-Brightening-Serum-Spray-Jelly-Pads-Serum-Moisturizer-Niacinamide-Toner-Damask-Rose-Cleanser-Moisture-Gel-Smooth-Skincare-i.380266264.55511468971",
+      "gambar": "https://down-id.img.susercontent.com/file/id-11134207-81ztq-mqbjob9pp2x7f1",
+      "lokasi": "",
+      "deskripsi": "",
+      "label": [
+        "Segar dan halus!",
+        "Noda hitam pudar!"
+      ]
+    },
+    {
+      "id": "380266264.43624321389",
+      "nama": "[BUNDLE PROMO] SKINTIFlC - Matte Blue Cushion/ Cover Glow Perfect Pink Cushion / Sunscreen Green Cushion + Powder Foundation Oil-control / Glowing / SPF 50+ PA++++ Makeup Setting 2PCS Combo",
+      "kategori": "Paket Hemat",
+      "harga": 300100,
+      "harga_asli": null,
+      "diskon": 25,
+      "rating": 4.9,
+      "terjual": 5000,
+      "terjual_teks": "5RB+",
+      "link": "https://shopee.co.id/-BUNDLE-PROMO-SKINTIFlC-Matte-Blue-Cushion-Cover-Glow-Perfect-Pink-Cushion-Sunscreen-Green-Cushion-Powder-Foundation-Oil-control-Glowing-SPF-50-PA-Makeup-Setting-2PCS-Combo-i.380266264.43624321389",
+      "gambar": "https://down-id.img.susercontent.com/file/id-11134207-81ztp-ms120kyh4nbcd9",
+      "lokasi": "",
+      "deskripsi": "",
+      "label": []
+    },
+    {
+      "id": "380266264.55759138347",
+      "nama": "SKINTIFIC - 3pcs Fresh Anti-acne Green Set | Cleanser + Spot Gel + Aqua Light Daily Sunscreen SPF 35 PA++++ | Kulit Berjerwat 3IN1 Acne-prone Acne Treatment Skin Skincare Paket",
+      "kategori": "Paket Hemat",
+      "harga": 273000,
+      "harga_asli": null,
+      "diskon": 32,
+      "rating": 4.9,
+      "terjual": 811,
+      "terjual_teks": "811",
+      "link": "https://shopee.co.id/SKINTIFIC-3pcs-Fresh-Anti-acne-Green-Set-Cleanser-Spot-Gel-Aqua-Light-Daily-Sunscreen-SPF-35-PA-Kulit-Berjerwat-3IN1-Acne-prone-Acne-Treatment-Skin-Skincare-Paket-i.380266264.55759138347",
+      "gambar": "https://down-id.img.susercontent.com/file/id-11134207-822wi-mn9mzmx1l9fm6b",
+      "lokasi": "",
+      "deskripsi": "",
+      "label": [
+        "Segar dan tenang!",
+        "Lindungi kulitmu!"
+      ]
+    },
+    {
+      "id": "380266264.27878632968",
+      "nama": "[​BUNDLE PROMO] SKINTIFIC - SPF50+ PA++++ Sunscreen 2PCS | Matte Fit Serum Sunscreen 50ml / 5X Ceramide Serum Sunscreen / Aqua Light Daily Sunscreen / Light Serum Brightening Sunscreen | Oil Control Cepat Menyerap Fast-Absorbing Melembapkan Hidras",
+      "kategori": "Paket Hemat",
+      "harga": 261000,
+      "harga_asli": null,
+      "diskon": 35,
+      "rating": 5,
+      "terjual": 828,
+      "terjual_teks": "828",
+      "link": "https://shopee.co.id/-%E2%80%8BBUNDLE-PROMO-SKINTIFIC-SPF50-PA-Sunscreen-2PCS-Matte-Fit-Serum-Sunscreen-50ml-5X-Ceramide-Serum-Sunscreen-Aqua-Light-Daily-Sunscreen-Light-Serum-Brightening-Sunscreen-Oil-Control-Cepat-Menyerap-Fast-Absorbing-Melembapkan-Hidras-i.380266264.27878632968",
+      "gambar": "https://down-id.img.susercontent.com/file/id-11134207-81ztf-msp0tx1t5clice",
+      "lokasi": "",
+      "deskripsi": "",
+      "label": []
+    },
+    {
+      "id": "380266264.49803949608",
+      "nama": "SKINTIFIC - 3PCS On-the-go Travel Skincare Set | Cleanser + Serum Spray + Sunscreen | Barrier Repair/Brightening/Oil-control Gentle Gel Cleanser Facial Wash Instant Glowing Serum Spray Tone-up /Matte SPF 50 PA++++ SunscreenPerawatan Wajah Harian",
+      "kategori": "Paket Hemat",
+      "harga": 236000,
+      "harga_asli": null,
+      "diskon": 41,
+      "rating": 5,
+      "terjual": 181,
+      "terjual_teks": "181",
+      "link": "https://shopee.co.id/SKINTIFIC-3PCS-On-the-go-Travel-Skincare-Set-Cleanser-Serum-Spray-Sunscreen-Barrier-Repair-Brightening-Oil-control-Gentle-Gel-Cleanser-Facial-Wash-Instant-Glowing-Serum-Spray-Tone-up-Matte-SPF-50-PA-SunscreenPerawatan-Wajah-Harian-i.380266264.49803949608",
+      "gambar": "https://down-id.img.susercontent.com/file/id-11134207-82250-mivem4478ttx39",
+      "lokasi": "",
+      "deskripsi": "",
+      "label": [
+        "Matte sempurna!",
+        "Cerah seketika!"
+      ]
+    },
+    {
+      "id": "380266264.45460105601",
+      "nama": "SKINTIFIC - 3PCS Moisture Set | Rose Cleanser + Serum + Moisturizer Glowing Brightening Retinol Anti-aging 377 Dark Spot Barrier Repair 3IN1",
+      "kategori": "Paket Hemat",
+      "harga": 328000,
+      "harga_asli": null,
+      "diskon": 45,
+      "rating": 5,
+      "terjual": 190,
+      "terjual_teks": "190",
+      "link": "https://shopee.co.id/SKINTIFIC-3PCS-Moisture-Set-Rose-Cleanser-Serum-Moisturizer-Glowing-Brightening-Retinol-Anti-aging-377-Dark-Spot-Barrier-Repair-3IN1-i.380266264.45460105601",
+      "gambar": "https://down-id.img.susercontent.com/file/id-11134207-822wi-mnxp68ycklxha7",
+      "lokasi": "",
+      "deskripsi": "",
+      "label": [
+        "Anti-aging ampuh!",
+        "Serum anti-aging"
+      ]
+    },
+    {
+      "id": "380266264.41478258775",
+      "nama": "[NEW] SKINTIFIC - Filter-like No Makeup Glow Set | Glow Bright Day Cream + Glossy Plump Lip Serum Cherry Red Kulit Cerah Dull / Acne / Sensitive Skin Tone up Brightening Natural Filter Combo Skincare Bundle",
+      "kategori": "Paket Hemat",
+      "harga": 240000,
+      "harga_asli": null,
+      "diskon": 40,
+      "rating": 4.9,
+      "terjual": 184,
+      "terjual_teks": "184",
+      "link": "https://shopee.co.id/-NEW-SKINTIFIC-Filter-like-No-Makeup-Glow-Set-Glow-Bright-Day-Cream-Glossy-Plump-Lip-Serum-Cherry-Red-Kulit-Cerah-Dull-Acne-Sensitive-Skin-Tone-up-Brightening-Natural-Filter-Combo-Skincare-Bundle-i.380266264.41478258775",
+      "gambar": "https://down-id.img.susercontent.com/file/id-11134207-8224z-mjw3r3iqmq6c46",
+      "lokasi": "",
+      "deskripsi": "",
+      "label": [
+        "Bibir plump!",
+        "Hidrasi maksimal!"
+      ]
+    },
+    {
+      "id": "380266264.42153350578",
+      "nama": "[HOT SALE] SKINTIFIC-2PCS Paket-Skincare Set|Gel Moisturizer Serum Cleanser Clay Stick Lip Serum Toner Sunscreen Mist|Brighten Barrier Calm Repair |MSH 5X Ceramide Whitening Niacinamide",
+      "kategori": "Paket Hemat",
+      "harga": 138000,
+      "harga_asli": null,
+      "diskon": 77,
+      "rating": 4.9,
+      "terjual": 333,
+      "terjual_teks": "333",
+      "link": "https://shopee.co.id/-HOT-SALE-SKINTIFIC-2PCS-Paket-Skincare-Set-Gel-Moisturizer-Serum-Cleanser-Clay-Stick-Lip-Serum-Toner-Sunscreen-Mist-Brighten-Barrier-Calm-Repair-MSH-5X-Ceramide-Whitening-Niacinamide-i.380266264.42153350578",
+      "gambar": "https://down-id.img.susercontent.com/file/id-11134207-7rbk1-marw8jenptzy33",
+      "lokasi": "",
+      "deskripsi": "",
+      "label": [
+        "Hidrasi sempurna!",
+        "Mudah menyerap!"
+      ]
+    },
+    {
+      "id": "380266264.51863478785",
+      "nama": "[NEW LAUNCH]SKINTIFIC - Soft Matte Finish Set|PDRN Vitabright Serum Jelly Pad 80sheets&PERFECT STAY SERUM MATTE CUSHION FOUNDATION SPF 50 PA++++ Brightening Hydrating Radiant Glow Long-lasting oil-control Non-Comedogenic Sun Protection bb cream skin tint",
+      "kategori": "Paket Hemat",
+      "harga": 149000,
+      "harga_asli": null,
+      "diskon": 25,
+      "rating": 5,
+      "terjual": 210,
+      "terjual_teks": "210",
+      "link": "https://shopee.co.id/-NEW-LAUNCH-SKINTIFIC-Soft-Matte-Finish-Set-PDRN-Vitabright-Serum-Jelly-Pad-80sheets-PERFECT-STAY-SERUM-MATTE-CUSHION-FOUNDATION-SPF-50-PA-Brightening-Hydrating-Radiant-Glow-Long-lasting-oil-control-Non-Comedogenic-Sun-Protection-bb-cream-skin-tint-i.380266264.51863478785",
+      "gambar": "https://down-id.img.susercontent.com/file/id-11134207-81ztg-mqbpkxtmq2a5ae",
+      "lokasi": "",
+      "deskripsi": "",
+      "label": [
+        "Glow tanpa ribet!",
+        "Mengandung pdrn"
+      ]
+    },
+    {
+      "id": "380266264.52954658722",
+      "nama": "SKINTIFIC - 4PCS -4IN1 Brightening Mask Glow Set-Facial Wash + Serum + Moisturizer+dailymask-Brightening, Dark Spot, Calming Acne, Skin Barrier, Glass Skin",
+      "kategori": "Paket Hemat",
+      "harga": 455000,
+      "harga_asli": null,
+      "diskon": 42,
+      "rating": 5,
+      "terjual": 115,
+      "terjual_teks": "115",
+      "link": "https://shopee.co.id/SKINTIFIC-4PCS-4IN1-Brightening-Mask-Glow-Set-Facial-Wash-Serum-Moisturizer-dailymask-Brightening-Dark-Spot-Calming-Acne-Skin-Barrier-Glass-Skin-i.380266264.52954658722",
+      "gambar": "https://down-id.img.susercontent.com/file/id-11134207-81ztn-mv7e142yyvwqba",
+      "lokasi": "",
+      "deskripsi": "",
+      "label": [
+        "Cerah seketika!",
+        "Rasa lembab"
+      ]
+    },
+    {
+      "id": "380266264.42526271480",
+      "nama": "SKINTIFlC - 2PCS Make-up Set | Mini Size-Perfect Stay Velvet Matte Cushion& Instant Glowing Serum Spray Combo High Coverage Travel Friendly concealer",
+      "kategori": "Paket Hemat",
+      "harga": 89000,
+      "harga_asli": null,
+      "diskon": 70,
+      "rating": 4.9,
+      "terjual": 2000,
+      "terjual_teks": "2RB+",
+      "link": "https://shopee.co.id/SKINTIFlC-2PCS-Make-up-Set-Mini-Size-Perfect-Stay-Velvet-Matte-Cushion-Instant-Glowing-Serum-Spray-Combo-High-Coverage-Travel-Friendly-concealer-i.380266264.42526271480",
+      "gambar": "https://down-id.img.susercontent.com/file/id-11134207-8224p-miu0hh8izi0we6",
+      "lokasi": "",
+      "deskripsi": "",
+      "label": [
+        "Infused skincare",
+        "Cover noda instan"
+      ]
+    },
+    {
+      "id": "380266264.47757433974",
+      "nama": "SKINTIFIC - 2PCS Skincare Set | Moisturizer Duo (Gel Cream) for Sensitive Skin | Hydrating, Calming, Brightening, Anti Acne, Oil Control, Skin Barrier – Niacinamide, 377, PDRN, Vitamin C – BPOM",
+      "kategori": "Paket Hemat",
+      "harga": 261000,
+      "harga_asli": null,
+      "diskon": 63,
+      "rating": 5,
+      "terjual": 712,
+      "terjual_teks": "712",
+      "link": "https://shopee.co.id/SKINTIFIC-2PCS-Skincare-Set-Moisturizer-Duo-(Gel-Cream)-for-Sensitive-Skin-Hydrating-Calming-Brightening-Anti-Acne-Oil-Control-Skin-Barrier-%E2%80%93-Niacinamide-377-PDRN-Vitamin-C-%E2%80%93-BPOM-i.380266264.47757433974",
+      "gambar": "https://down-id.img.susercontent.com/file/id-11134207-822wh-mm09c325znrj15",
+      "lokasi": "",
+      "deskripsi": "",
+      "label": []
+    },
+    {
+      "id": "380266264.41954310353",
+      "nama": "[!!Member Exclusive]SKINTIFIC - Low pH 5X Ceramide Cleanser/Niacinamide Brightening/Panthenol Gentle Gel/3X Acid Acne/Ectoin Essence | Sensitive Repair Barrier Facial Wash Cleanser Face Wash Sabun Cuci Muka Acner Glowing Anti-Aging Brightening Whitening",
+      "kategori": "Pembersih",
+      "harga": 310000,
+      "harga_asli": null,
+      "diskon": null,
+      "rating": 5,
+      "terjual": 3000,
+      "terjual_teks": "3RB+",
+      "link": "https://shopee.co.id/-!!Member-Exclusive-SKINTIFIC-Low-pH-5X-Ceramide-Cleanser-Niacinamide-Brightening-Panthenol-Gentle-Gel-3X-Acid-Acne-Ectoin-Essence-Sensitive-Repair-Barrier-Facial-Wash-Cleanser-Face-Wash-Sabun-Cuci-Muka-Acner-Glowing-Anti-Aging-Brightening-Whitening-i.380266264.41954310353",
+      "gambar": "https://down-id.img.susercontent.com/file/id-11134207-7rbk8-mb3aelaaq1dk2f",
+      "lokasi": "",
+      "deskripsi": "",
+      "label": []
+    },
+    {
+      "id": "380266264.51710847484",
+      "nama": "SKINTIFIC - 2pcs Paket-Beauty Set | perfect stay serum matte cushion foundation spf 50 pa++++&Lock The Look Setting Spray Bedak Cushion Makeup Set",
+      "kategori": "Paket Hemat",
+      "harga": 280000,
+      "harga_asli": null,
+      "diskon": 30,
+      "rating": 4.9,
+      "terjual": 98,
+      "terjual_teks": "98",
+      "link": "https://shopee.co.id/SKINTIFIC-2pcs-Paket-Beauty-Set-perfect-stay-serum-matte-cushion-foundation-spf-50-pa-Lock-The-Look-Setting-Spray-Bedak-Cushion-Makeup-Set-i.380266264.51710847484",
+      "gambar": "https://down-id.img.susercontent.com/file/id-11134207-822wt-mogo2rj7tvkd6f",
+      "lokasi": "",
+      "deskripsi": "",
+      "label": [
+        "SPF 50 PA++++",
+        "Cushion ringan"
+      ]
+    },
+    {
+      "id": "380266264.53055078760",
+      "nama": "[4PCS] SKINTIFIC Intensive Daily Set -Serum+Moisturizer+Cleanser+Brightening Mask – Daily Skincare – Paket Perawatan Wajah – Brightening, Whitening, Repair Skin Barrier, Dark Spot, Anti Acne – Niacinamide, 377, Ceramide – BPOM",
+      "kategori": "Paket Hemat",
+      "harga": 455000,
+      "harga_asli": null,
+      "diskon": 54,
+      "rating": 4.8,
+      "terjual": 425,
+      "terjual_teks": "425",
+      "link": "https://shopee.co.id/-4PCS-SKINTIFIC-Intensive-Daily-Set-Serum-Moisturizer-Cleanser-Brightening-Mask-%E2%80%93-Daily-Skincare-%E2%80%93-Paket-Perawatan-Wajah-%E2%80%93-Brightening-Whitening-Repair-Skin-Barrier-Dark-Spot-Anti-Acne-%E2%80%93-Niacinamide-377-Ceramide-%E2%80%93-BPOM-i.380266264.53055078760",
+      "gambar": "https://down-id.img.susercontent.com/file/id-11134207-8224u-mjs85qka8i6f1d",
+      "lokasi": "",
+      "deskripsi": "",
+      "label": [
+        "Hidrasi mendalam!",
+        "Bersih dan segar!"
+      ]
+    },
+    {
+      "id": "380266264.52805078070",
+      "nama": "[5PCS] SKINTIFIC Brightening 5-in-1 Skincare Set – Toner/serum+Cleanser+Moisturizer+Micellar Water+Brightening Mask–Paket Perawatan Wajah – Mencerahkan, Dark Spot, Skin Barrier – BPOM",
+      "kategori": "Paket Hemat",
+      "harga": 530000,
+      "harga_asli": null,
+      "diskon": 59,
+      "rating": 5,
+      "terjual": 370,
+      "terjual_teks": "370",
+      "link": "https://shopee.co.id/-5PCS-SKINTIFIC-Brightening-5-in-1-Skincare-Set-%E2%80%93-Toner-serum-Cleanser-Moisturizer-Micellar-Water-Brightening-Mask%E2%80%93Paket-Perawatan-Wajah-%E2%80%93-Mencerahkan-Dark-Spot-Skin-Barrier-%E2%80%93-BPOM-i.380266264.52805078070",
+      "gambar": "https://down-id.img.susercontent.com/file/id-11134207-8224y-mjs65cxqls7439",
+      "lokasi": "",
+      "deskripsi": "",
+      "label": [
+        "Segar dan bersih!",
+        "Noda hilang!"
+      ]
+    },
+    {
+      "id": "380266264.25037364136",
+      "nama": "SKINTIFIC -2pcs Paket Makeup Set | Perfect Stay Velvet Matte Cushion l + Loose Powder 10g bedak padat concealer focallure make up",
+      "kategori": "Paket Hemat",
+      "harga": 149000,
+      "harga_asli": null,
+      "diskon": 63,
+      "rating": 4.9,
+      "terjual": 1000,
+      "terjual_teks": "1RB+",
+      "link": "https://shopee.co.id/SKINTIFIC-2pcs-Paket-Makeup-Set-Perfect-Stay-Velvet-Matte-Cushion-l-Loose-Powder-10g-bedak-padat-concealer-focallure-make-up-i.380266264.25037364136",
+      "gambar": "https://down-id.img.susercontent.com/file/id-11134207-7rbk8-m9sfxh6ca93m2d",
+      "lokasi": "",
+      "deskripsi": "",
+      "label": []
+    },
+    {
+      "id": "380266264.46413501109",
+      "nama": "[NEW LAUNCH]SKINTIFIC - Glowing Glass Skin Set | PDRN Vitabright Serum Jelly Pad 80sheets&Cover Glow Perfect Pink Cushion Antioxidation Dewy Flawless Oil-Control Brightening Hydrating Radiant masker komedo dan pori Foundation skin tint bb cream",
+      "kategori": "Paket Hemat",
+      "harga": 149000,
+      "harga_asli": null,
+      "diskon": 25,
+      "rating": 5,
+      "terjual": 119,
+      "terjual_teks": "119",
+      "link": "https://shopee.co.id/-NEW-LAUNCH-SKINTIFIC-Glowing-Glass-Skin-Set-PDRN-Vitabright-Serum-Jelly-Pad-80sheets-Cover-Glow-Perfect-Pink-Cushion-Antioxidation-Dewy-Flawless-Oil-Control-Brightening-Hydrating-Radiant-masker-komedo-dan-pori-Foundation-skin-tint-bb-cream-i.380266264.46413501109",
+      "gambar": "https://down-id.img.susercontent.com/file/id-11134207-81ztp-mqbnotg77thoc3",
+      "lokasi": "",
+      "deskripsi": "",
+      "label": [
+        "Glow flawless!",
+        "Mudah digunakan"
+      ]
+    },
+    {
+      "id": "380266264.27527555007",
+      "nama": "SKINTIFlC - Dewy Finish Makeup Series | Makeup Set Serum Foundation & Instant Glowing Setting & Finishing Spray Makeup & Lip Serum & Glod Cushion coverage oil-control Centella Lightweight Long-Lasting Kulit Halus Bercahaya Efek Hidrasi Moisturizing bedak",
+      "kategori": "Paket Hemat",
+      "harga": 87000,
+      "harga_asli": null,
+      "diskon": 78,
+      "rating": 4.9,
+      "terjual": 2000,
+      "terjual_teks": "2RB+",
+      "link": "https://shopee.co.id/SKINTIFlC-Dewy-Finish-Makeup-Series-Makeup-Set-Serum-Foundation-Instant-Glowing-Setting-Finishing-Spray-Makeup-Lip-Serum-Glod-Cushion-coverage-oil-control-Centella-Lightweight-Long-Lasting-Kulit-Halus-Bercahaya-Efek-Hidrasi-Moisturizing-bedak-i.380266264.27527555007",
+      "gambar": "https://down-id.img.susercontent.com/file/id-11134207-82251-mklvxl84ktttb3",
+      "lokasi": "",
+      "deskripsi": "",
+      "label": []
+    },
+    {
+      "id": "380266264.54766384422",
+      "nama": "BUNDLE HEMAT | SKINTIFIC - Cushion + Refill | Radiant Glow / Matte / Flawless Natural Cushion & Refill Set High Coverage Compact Foundation Makeup Set",
+      "kategori": "Paket Hemat",
+      "harga": 271000,
+      "harga_asli": null,
+      "diskon": 32,
+      "rating": 5,
+      "terjual": 61,
+      "terjual_teks": "61",
+      "link": "https://shopee.co.id/BUNDLE-HEMAT-SKINTIFIC-Cushion-Refill-Radiant-Glow-Matte-Flawless-Natural-Cushion-Refill-Set-High-Coverage-Compact-Foundation-Makeup-Set-i.380266264.54766384422",
+      "gambar": "https://down-id.img.susercontent.com/file/id-11134207-81ztg-ms599n8j4lc20a",
+      "lokasi": "",
+      "deskripsi": "",
+      "label": []
+    },
+    {
+      "id": "380266264.29544880160",
+      "nama": "SKINTIFIC - 2pcs Paket-Beauty Set | perfect stay serum matte cushion foundation spf 50 pa++++& Loose powder setting Bedak Cushion Makeup Set",
+      "kategori": "Paket Hemat",
+      "harga": 300100,
+      "harga_asli": null,
+      "diskon": 25,
+      "rating": 4.9,
+      "terjual": 76,
+      "terjual_teks": "76",
+      "link": "https://shopee.co.id/SKINTIFIC-2pcs-Paket-Beauty-Set-perfect-stay-serum-matte-cushion-foundation-spf-50-pa-Loose-powder-setting-Bedak-Cushion-Makeup-Set-i.380266264.29544880160",
+      "gambar": "https://down-id.img.susercontent.com/file/sg-11134201-823oy-moi3uejla80ffb",
+      "lokasi": "",
+      "deskripsi": "",
+      "label": [
+        "SPF 50 PA++++",
+        "Serum sempurna!"
+      ]
+    },
+    {
+      "id": "380266264.29937246221",
+      "nama": "SKINTIFIC - Centella Series | For Sensitive Skin |CalmDown Repair Oil Control Acne Treatment Sunburn Soothing Cooling Sensation|Cleanser Moisturizer Serum Clay Stick Toner Sunscreen Cooling Spray",
+      "kategori": "Masker",
+      "harga": 100100,
+      "harga_asli": null,
+      "diskon": 67,
+      "rating": 4.9,
+      "terjual": 1000,
+      "terjual_teks": "1RB+",
+      "link": "https://shopee.co.id/SKINTIFIC-Centella-Series-For-Sensitive-Skin-CalmDown-Repair-Oil-Control-Acne-Treatment-Sunburn-Soothing-Cooling-Sensation-Cleanser-Moisturizer-Serum-Clay-Stick-Toner-Sunscreen-Cooling-Spray-i.380266264.29937246221",
+      "gambar": "https://down-id.img.susercontent.com/file/id-11134207-7rbk6-mas94bpinwm197",
+      "lokasi": "",
+      "deskripsi": "",
+      "label": [
+        "Hidrasi sempurna!",
+        "Kulit segar!"
+      ]
+    },
+    {
+      "id": "380266264.44079818822",
+      "nama": "SKINTIFIC | 2PCS Makeup Combo - Glow Cushion + Brighetening Micellar Cleansing Wipes | Cleansing Tissue Makeup Remover Wipes Niacinamide Brightening & Centella Acne Care",
+      "kategori": "Paket Hemat",
+      "harga": 196000,
+      "harga_asli": null,
+      "diskon": 51,
+      "rating": 4.9,
+      "terjual": 147,
+      "terjual_teks": "147",
+      "link": "https://shopee.co.id/SKINTIFIC-2PCS-Makeup-Combo-Glow-Cushion-Brighetening-Micellar-Cleansing-Wipes-Cleansing-Tissue-Makeup-Remover-Wipes-Niacinamide-Brightening-Centella-Acne-Care-i.380266264.44079818822",
+      "gambar": "https://down-id.img.susercontent.com/file/id-11134207-822wo-mntnvv6kcj5s0c",
+      "lokasi": "",
+      "deskripsi": "",
+      "label": [
+        "Mudah digunakan",
+        "Lembut di kulit"
+      ]
+    },
+    {
+      "id": "380266264.27776445745",
+      "nama": "SKINTIFIC - 2pcs Paket Acne treatment & Oil control & Brightening Skincare Set-Niacinamide Bright Boost/Mugwort Acne/Alaska Volcano Pore Clay Stick + Matte Fit Serum / Aqua Light / 5X Ceramide Sunscreen SPF 50+ PA++++",
+      "kategori": "Paket Hemat",
+      "harga": 186000,
+      "harga_asli": null,
+      "diskon": 38,
+      "rating": 4.9,
+      "terjual": 1000,
+      "terjual_teks": "1RB+",
+      "link": "https://shopee.co.id/SKINTIFIC-2pcs-Paket-Acne-treatment-Oil-control-Brightening-Skincare-Set-Niacinamide-Bright-Boost-Mugwort-Acne-Alaska-Volcano-Pore-Clay-Stick-Matte-Fit-Serum-Aqua-Light-5X-Ceramide-Sunscreen-SPF-50-PA--i.380266264.27776445745",
+      "gambar": "https://down-id.img.susercontent.com/file/id-11134207-7rbkb-m6cd6n2pl7i89a",
+      "lokasi": "",
+      "deskripsi": "",
+      "label": [
+        "Kulit glowing!",
+        "Jerawat hilang!"
+      ]
+    },
+    {
+      "id": "380266264.24142093020",
+      "nama": "SKINTIFIC - Dewy Glow & Protection 4Pcs Set | Serum Wajah Moisturizer Gel Toner Clay Mask Day Night Cream Barrier Brightening Whitening Calm Peeling Dark Spot Mencerahkan Wajah Kurangi Bintik Hitam Bekas Jerawat with Nianicinamide Retinol Bundle",
+      "kategori": "Paket Hemat",
+      "harga": 417000,
+      "harga_asli": null,
+      "diskon": 62,
+      "rating": 4.9,
+      "terjual": 7000,
+      "terjual_teks": "7RB+",
+      "link": "https://shopee.co.id/SKINTIFIC-Dewy-Glow-Protection-4Pcs-Set-Serum-Wajah-Moisturizer-Gel-Toner-Clay-Mask-Day-Night-Cream-Barrier-Brightening-Whitening-Calm-Peeling-Dark-Spot-Mencerahkan-Wajah-Kurangi-Bintik-Hitam-Bekas-Jerawat-with-Nianicinamide-Retinol-Bundle-i.380266264.24142093020",
+      "gambar": "https://down-id.img.susercontent.com/file/sg-11134201-825a4-mvgt5ywtgqo938",
+      "lokasi": "",
+      "deskripsi": "",
+      "label": [
+        "Exfoliasi lembut!",
+        "Hidrasi maksimal!"
+      ]
+    },
+    {
+      "id": "380266264.42110324865",
+      "nama": "SKINTIFIC - 3IN1 Vitamin Renew Set | 10% Pure Vitamin C Brightening Serum Retinol Serum 5X Ceramide Barrier Repair Moisture Gel 3PCS | VC+VA Skin Renewing Reset Anti-aging Dark Spot Acne Jerawat Redness Calming Soothing Moisturizer",
+      "kategori": "Paket Hemat",
+      "harga": 271000,
+      "harga_asli": null,
+      "diskon": 46,
+      "rating": 4.9,
+      "terjual": 3000,
+      "terjual_teks": "3RB+",
+      "link": "https://shopee.co.id/SKINTIFIC-3IN1-Vitamin-Renew-Set-10-Pure-Vitamin-C-Brightening-Serum-Retinol-Serum-5X-Ceramide-Barrier-Repair-Moisture-Gel-3PCS-VC-VA-Skin-Renewing-Reset-Anti-aging-Dark-Spot-Acne-Jerawat-Redness-Calming-Soothing-Moisturizer-i.380266264.42110324865",
+      "gambar": "https://down-id.img.susercontent.com/file/id-11134207-8224p-ml2veoukzg1ua9",
+      "lokasi": "",
+      "deskripsi": "",
+      "label": [
+        "Kulit bercahaya!",
+        "Tekstur halus!"
+      ]
+    },
+    {
+      "id": "380266264.28514470103",
+      "nama": "SKINTIFIC -2PCS Cushion+Refill Set | Perfect Stay Velvet Matte Cushion 11ml + Matte Cushion Refill 11ml / Cover All Perfect Cushion 11ml + Cover All Perfect Cushion Refill 11ml",
+      "kategori": "Paket Hemat",
+      "harga": 213000,
+      "harga_asli": null,
+      "diskon": 57,
+      "rating": 4.9,
+      "terjual": 2000,
+      "terjual_teks": "2RB+",
+      "link": "https://shopee.co.id/SKINTIFIC-2PCS-Cushion-Refill-Set-Perfect-Stay-Velvet-Matte-Cushion-11ml-Matte-Cushion-Refill-11ml-Cover-All-Perfect-Cushion-11ml-Cover-All-Perfect-Cushion-Refill-11ml-i.380266264.28514470103",
+      "gambar": "https://down-id.img.susercontent.com/file/id-11134207-8224q-mgzz8cm5baq2c7",
+      "lokasi": "",
+      "deskripsi": "",
+      "label": []
+    },
+    {
+      "id": "380266264.47904947587",
+      "nama": "SKINTIFIC - Day & Night Skin Renewal Set 3PCS | Retinol Serum 377 Dark Spot Serum Moisturizer PDRN Moisture Gel Noda Hitam/Flek Hitam/Bekas Jerawat & Brightening Anti-aging Kulit Halus BPOM Official Store",
+      "kategori": "Paket Hemat",
+      "harga": 384000,
+      "harga_asli": null,
+      "diskon": 23,
+      "rating": 4.9,
+      "terjual": 4000,
+      "terjual_teks": "4RB+",
+      "link": "https://shopee.co.id/SKINTIFIC-Day-Night-Skin-Renewal-Set-3PCS-Retinol-Serum-377-Dark-Spot-Serum-Moisturizer-PDRN-Moisture-Gel-Noda-Hitam-Flek-Hitam-Bekas-Jerawat-Brightening-Anti-aging-Kulit-Halus-BPOM-Official-Store-i.380266264.47904947587",
+      "gambar": "https://down-id.img.susercontent.com/file/sg-11134201-825ao-mvgtckfs270k76",
+      "lokasi": "",
+      "deskripsi": "",
+      "label": [
+        "Noda hilang!",
+        "Hidrasi maksimal!"
+      ]
+    },
+    {
+      "id": "380266264.43070567036",
+      "nama": "SKINTIFIC - 4pcs Paket Makeup & Cleansing oil Set | Serum Concealer + Skin tint Foundation+ Setting Spray + Cleansing oil cleanser",
+      "kategori": "Paket Hemat",
+      "harga": 116000,
+      "harga_asli": null,
+      "diskon": 42,
+      "rating": 4.9,
+      "terjual": 184,
+      "terjual_teks": "184",
+      "link": "https://shopee.co.id/SKINTIFIC-4pcs-Paket-Makeup-Cleansing-oil-Set-Serum-Concealer-Skin-tint-Foundation-Setting-Spray-Cleansing-oil-cleanser-i.380266264.43070567036",
+      "gambar": "https://down-id.img.susercontent.com/file/sg-11134201-8259o-mey42c5iv9j91b",
+      "lokasi": "",
+      "deskripsi": "",
+      "label": [
+        "Kulit lembut!",
+        "Tahan lama!"
+      ]
+    },
+    {
+      "id": "380266264.29126052197",
+      "nama": "SKINTIFIC - Perfect Stay Velvet Matte Cushion& Refill Set | Oil-Control Waterproof Sweatproof Matte Finish Poreless Cushion Foundation Flawless BB&CC Cream Makeup High-Coverage Bedak Padat Skintint",
+      "kategori": "Paket Hemat",
+      "harga": 213000,
+      "harga_asli": null,
+      "diskon": 42,
+      "rating": 4.9,
+      "terjual": 10000,
+      "terjual_teks": "10RB+",
+      "link": "https://shopee.co.id/SKINTIFIC-Perfect-Stay-Velvet-Matte-Cushion-Refill-Set-Oil-Control-Waterproof-Sweatproof-Matte-Finish-Poreless-Cushion-Foundation-Flawless-BB-CC-Cream-Makeup-High-Coverage-Bedak-Padat-Skintint-i.380266264.29126052197",
+      "gambar": "https://down-id.img.susercontent.com/file/id-11134207-822wi-mp97oishsfta83",
+      "lokasi": "",
+      "deskripsi": "",
+      "label": []
+    }
+  ]
+}

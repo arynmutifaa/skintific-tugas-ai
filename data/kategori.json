@@ -1,0 +1,57 @@
+{
+  "catatan": "Kategori dicek dari atas ke bawah, kategori pertama yang cocok yang dipakai. Kata kunci dicocokkan sebagai kata utuh; akhiran * artinya awalan kata (moistur* cocok dengan moisturizer dan moisture). Kalau npm run cek menunjukkan produk salah kategori, tambahkan kata kunci di sini lalu jalankan npm run build-data lagi.",
+  "kategori": [
+    {
+      "nama": "Paket Hemat",
+      "kata_kunci": ["paket", "bundle", "bundling", "bundel", "duo", "trio", "combo", "set", "kit", "gift box", " + "]
+    },
+    {
+      "nama": "Bibir",
+      "kata_kunci": ["lip", "lips", "lipstick", "lipstik", "lipcream", "lip cream", "lip balm", "lip tint", "lip serum", "bibir"]
+    },
+    {
+      "nama": "Masker",
+      "kata_kunci": ["mask", "masker", "clay", "sleeping mask", "mud"]
+    },
+    {
+      "nama": "Pembersih",
+      "kata_kunci": ["cleanser", "cleansing", "facial wash", "face wash", "facial foam", "sabun cuci muka", "sabun muka", "micellar", "makeup remover", "remover", "cleansing balm"]
+    },
+    {
+      "nama": "Makeup",
+      "kata_kunci": ["cushion", "foundation", "skin tint", "concealer", "bedak", "loose powder", "powder", "compact", "primer", "setting spray", "bb cream", "cc cream", "blush", "mascara", "eyeliner", "alas bedak"]
+    },
+    {
+      "nama": "Sunscreen",
+      "kata_kunci": ["sunscreen", "sunblock", "sun screen", "sun serum", "tabir surya", "spf*", "uv defense"]
+    },
+    {
+      "nama": "Perawatan Mata",
+      "kata_kunci": ["eye cream", "eye serum", "eye", "mata"]
+    },
+    {
+      "nama": "Eksfoliasi",
+      "kata_kunci": ["peeling", "exfoliat*", "eksfoliasi", "scrub"]
+    },
+    {
+      "nama": "Toner & Essence",
+      "kata_kunci": ["toner", "essence", "face mist", "mist", "spray"]
+    },
+    {
+      "nama": "Perawatan Jerawat",
+      "kata_kunci": ["acne patch", "pimple patch", "patch", "spot gel", "spot treatment", "acne spot"]
+    },
+    {
+      "nama": "Serum",
+      "kata_kunci": ["serum", "ampoule", "ampul"]
+    },
+    {
+      "nama": "Perawatan Tubuh",
+      "kata_kunci": ["body", "badan", "hand cream", "deodorant", "ketiak"]
+    },
+    {
+      "nama": "Pelembap",
+      "kata_kunci": ["moistur*", "pelemba*", "cream", "krim", "gel", "lotion"]
+    }
+  ]
+}

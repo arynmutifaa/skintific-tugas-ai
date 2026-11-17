@@ -1,0 +1,22 @@
+{
+  "name": "katalog-skintific",
+  "version": "1.0.0",
+  "description": "Katalog lapak Shopee SKINTIFIC dengan chatbot RAG (website + WhatsApp) - Tugas Praktikum AI",
+  "private": true,
+  "scripts": {
+    "cek": "node scripts/cek.js",
+    "build-data": "node scripts/build-data.js",
+    "dev": "node dev-server.js",
+    "wa": "node gateway/wa.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "dotenv": "^18.0.10",
+    "express": "^5.1.0",
+    "groq-sdk": "^1.6.0",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.34.8"
+  }
+}

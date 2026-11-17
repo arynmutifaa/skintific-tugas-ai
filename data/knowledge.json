@@ -1,0 +1,66 @@
+{
+  "toko": {
+    "nama": "SKINTIFIC Official Shop",
+    "brand": "SKINTIFIC",
+    "shopee_url": "https://shopee.co.id/skintific_id",
+    "whatsapp": "082143728139",
+    "_catatan": "Ganti nama (samakan dengan nama lapak di Shopee), shopee_url (link lapak), dan whatsapp (nomor WA yang ditautkan ke bot, format 62..., tanpa + dan tanpa spasi)."
+  },
+
+  "faq": [
+    {
+      "id": "cara_pesan",
+      "kata_kunci": ["cara pesan", "cara order", "cara beli", "gimana belinya", "gimana pesannya", "mau order", "mau pesan", "checkout", "beli dimana", "beli di mana", "pesan dimana"],
+      "jawaban": "Cara pesannya gampang, Kak:\n1. Pilih produk di katalog atau tanya aku dulu produk yang cocok.\n2. Klik tombol *Beli di Shopee* (atau link Shopee yang aku kirim).\n3. Pilih varian, klik Beli Sekarang, lalu checkout seperti biasa di aplikasi Shopee."
+    },
+    {
+      "id": "pengiriman",
+      "kata_kunci": ["ongkir", "ongkos kirim", "pengiriman", "dikirim", "kirim pakai", "ekspedisi", "kurir", "berapa lama sampai", "estimasi sampai", "gratis ongkir", "free ongkir"],
+      "jawaban": "Ongkir dan estimasi sampai dihitung otomatis oleh Shopee waktu checkout, tergantung alamat dan jasa kirim yang Kakak pilih. Jangan lupa cek voucher gratis ongkir di halaman checkout ya."
+    },
+    {
+      "id": "pembayaran",
+      "kata_kunci": ["pembayaran", "bayar", "cod", "bayar di tempat", "transfer", "shopeepay", "spaylater", "paylater", "cicilan"],
+      "jawaban": "Pembayaran dilakukan di Shopee saat checkout, Kak. Metodenya mengikuti yang tersedia di akun dan alamat Kakak (misalnya ShopeePay, transfer bank/virtual account, SPayLater, atau COD kalau tersedia)."
+    },
+    {
+      "id": "keaslian",
+      "kata_kunci": ["original", "ori", "asli", "palsu", "kw", "bpom", "resmi", "official"],
+      "jawaban": "Semua produk di katalog ini diambil dari lapak resmi SKINTIFIC di Shopee. Nomor BPOM dan detail kandungan bisa Kakak cek langsung di halaman produknya (klik link Shopee-nya)."
+    },
+    {
+      "id": "retur",
+      "kata_kunci": ["retur", "return", "refund", "pengembalian", "tukar barang", "barang rusak", "salah kirim", "komplain"],
+      "jawaban": "Kalau barang rusak atau tidak sesuai, ajukan lewat fitur *Pengembalian Barang/Dana* di halaman pesanan Shopee sebelum menekan Pesanan Diterima. Ketentuannya mengikuti kebijakan Shopee."
+    },
+    {
+      "id": "jam",
+      "kata_kunci": ["jam buka", "jam operasional", "buka jam", "tutup jam", "jam berapa", "buka hari", "libur"],
+      "jawaban": "Lapak Shopee-nya bisa diakses 24 jam, Kak, jadi Kakak bisa checkout kapan saja. Pesanan diproses penjual sesuai jadwal pengiriman di Shopee."
+    },
+    {
+      "id": "kontak",
+      "kata_kunci": ["kontak", "contact", "nomor wa", "no wa", "hubungi", "admin manusia", "cs"],
+      "jawaban": "Kakak bisa lanjut chat di WhatsApp ini, atau buka lapaknya langsung di Shopee: {shopee_url}"
+    }
+  ],
+
+  "template_wa": {
+    "_catatan": "Template pesan tombol WhatsApp di website. {toko} {nama} {harga} {kategori} {link} akan diganti otomatis. Kunci harus sama dengan nama kategori di kategori.json.",
+    "umum": "Halo {toko}, saya mau tanya-tanya produk skincare dong.",
+    "default": "Halo {toko}, saya tertarik dengan *{nama}* ({harga}). Apakah masih tersedia?",
+    "Sunscreen": "Halo {toko}, saya mau tanya sunscreen *{nama}* ({harga}). Cocok untuk kulit berminyak dan dipakai harian?",
+    "Pelembap": "Halo {toko}, saya tertarik moisturizer *{nama}* ({harga}). Cocok untuk jenis kulit apa ya?",
+    "Serum": "Halo {toko}, saya mau tanya serum *{nama}* ({harga}). Ini untuk masalah kulit apa dan boleh dipakai bareng serum lain?",
+    "Pembersih": "Halo {toko}, saya tertarik cleanser *{nama}* ({harga}). Aman untuk kulit sensitif?",
+    "Toner & Essence": "Halo {toko}, saya mau tanya *{nama}* ({harga}). Dipakai sebelum atau sesudah serum ya?",
+    "Masker": "Halo {toko}, saya tertarik masker *{nama}* ({harga}). Berapa kali seminggu sebaiknya dipakai?",
+    "Eksfoliasi": "Halo {toko}, saya mau tanya *{nama}* ({harga}). Aman untuk pemula?",
+    "Makeup": "Halo {toko}, saya tertarik *{nama}* ({harga}). Shade apa saja yang tersedia?",
+    "Bibir": "Halo {toko}, saya mau tanya *{nama}* ({harga}). Varian warnanya ada apa saja?",
+    "Perawatan Mata": "Halo {toko}, saya tertarik *{nama}* ({harga}). Cocok untuk mata panda?",
+    "Perawatan Jerawat": "Halo {toko}, saya mau tanya *{nama}* ({harga}). Cocok untuk jerawat yang sedang meradang?",
+    "Paket Hemat": "Halo {toko}, saya tertarik paket *{nama}* ({harga}). Isi paketnya apa saja?",
+    "Perawatan Tubuh": "Halo {toko}, saya mau tanya *{nama}* ({harga}). Apakah masih tersedia?"
+  }
+}
